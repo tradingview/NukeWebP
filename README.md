@@ -1,6 +1,6 @@
 # NukeWebP
 
-WebP image decoder for [Nuke](https://github.com/kean/Nuke) written in swift. It support progressive WebP 1212
+WebP image decoder for [Nuke](https://github.com/kean/Nuke) written in swift. It support progressive WebP
 
 
 ## Usage
